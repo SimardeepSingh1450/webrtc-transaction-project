@@ -1,0 +1,12 @@
+#local-stream{
+    background-color: black;
+    height: 300px;
+    margin-top: 2vw;
+    margin-right: 2vw;
+}
+
+#remote-stream{
+    background-color: grey;
+    height: 300px;
+    margin-top: 2vw;
+}
