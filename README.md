@@ -1,6 +1,6 @@
 # WebRTC-Transaction-Project
 
-This project demonstrates WebRTC-Transaction implementation without Signaling method.
+This project demonstrates WebRTC-Video-Calling-Transaction implementation without Signaling method.
 
 ## How to try this out ?
     1. Prepare 2 devices between which you want the communcation.
